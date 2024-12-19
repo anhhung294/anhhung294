@@ -1,7 +1,7 @@
   <img align="right" src="https://img.shields.io/github/followers/anhhung04?style=social" alt="GitHub followers">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋;I'm+Hung;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋+I'm+hah4;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG">
     </a>
   </h1>
 </div>
