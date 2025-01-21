@@ -47,14 +47,8 @@
 
 <div align="center">
   <a href="https://github.com/anhhung04">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anhhung04&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anhhung04">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anhhung04&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/anhhung04">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhhung04&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
   </a>
